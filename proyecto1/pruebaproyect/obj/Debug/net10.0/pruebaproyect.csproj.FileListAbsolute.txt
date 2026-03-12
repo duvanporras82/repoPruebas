@@ -1,0 +1,15 @@
+/workspaces/repoPruebas/proyecto1/pruebaproyect/bin/Debug/net10.0/pruebaproyect
+/workspaces/repoPruebas/proyecto1/pruebaproyect/bin/Debug/net10.0/pruebaproyect.deps.json
+/workspaces/repoPruebas/proyecto1/pruebaproyect/bin/Debug/net10.0/pruebaproyect.runtimeconfig.json
+/workspaces/repoPruebas/proyecto1/pruebaproyect/bin/Debug/net10.0/pruebaproyect.dll
+/workspaces/repoPruebas/proyecto1/pruebaproyect/bin/Debug/net10.0/pruebaproyect.pdb
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.AssemblyInfoInputs.cache
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.AssemblyInfo.cs
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.csproj.CoreCompileInputs.cache
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.sourcelink.json
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.dll
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/refint/pruebaproyect.dll
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.pdb
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/pruebaproyect.genruntimeconfig.cache
+/workspaces/repoPruebas/proyecto1/pruebaproyect/obj/Debug/net10.0/ref/pruebaproyect.dll
